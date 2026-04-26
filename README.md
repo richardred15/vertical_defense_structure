@@ -1,1 +1,1 @@
-"# vertical_defense_structure" 
+# vertical_defense_structure
